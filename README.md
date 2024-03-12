@@ -7,9 +7,6 @@
 # details
 I`m software engineer in [Hakoroboken](https://github.com/hakoroboken) 
 
-These days, I study Rust.
-
-Good luck->localization, PointCloud...
 
 # SNS
 [Qiita](https://qiita.com/motii8128)
