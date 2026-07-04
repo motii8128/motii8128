@@ -4,10 +4,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=motii8128&theme=monokai)
 
 
-# details
-I`m software engineer in [Hakoroboken](https://github.com/hakoroboken) 
-
-
 # SNS
 [Qiita](https://qiita.com/motii8128)
 
